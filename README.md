@@ -6,7 +6,7 @@ This Exercise App Help you Have Better Result And Experince From Your GYM With P
 <p>Thanks For Your Patience:)</p>
 
 <br><br>
-<p>*Exercise-Plan .</p>
+<p>*Exercise-Plan</p>
 
 <br><br>
 
