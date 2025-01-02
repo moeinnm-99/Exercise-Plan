@@ -1,4 +1,6 @@
-# Coming Soon....
+# Coming Soon.... (Around 1 Month:/)
+
+
 # Exercise-Plan
 This Exercise App Help you Have Better Result And Experince From Your GYM With Python:)
 
