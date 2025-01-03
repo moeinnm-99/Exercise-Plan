@@ -1,4 +1,4 @@
-# Coming Soon.... (Around 1 Month:/)
+# Coming Soon.... (Around 1 Month)
 
 
 # Exercise-Plan
